@@ -1,2 +1,11 @@
-# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
-The goal is to implement an automated ticket routing system at ABC Corporation to enhance efficiency by assigning tickets to the right teams. This reduces delays, improves resolution speed, boosts customer satisfaction, and optimizes resource utilization in support operations.
+# Streamlining Ticket Assignment for Efficient Support Operations
+
+## 📌 Overview
+This project demonstrates the implementation of an **automated ticket routing system** at ABC Corporation using configuration-driven setups.  
+By managing **Users, Roles, Groups, Tables, and ACLs** through XML files, the system streamlines support ticket assignment to the right teams.  
+The goal is to **reduce delays**, **enhance customer satisfaction**, and **optimize resource utilization** within the support department.
+
+---
+
+## 📂 Repository Contents
+
