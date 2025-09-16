@@ -1,0 +1,50 @@
+
+---
+
+## 🗂️ XML Files
+
+- **users.xml** → Defines user accounts, attributes, and support roles.  
+- **roles.xml** → Specifies system roles with their respective permissions.  
+- **groups.xml** → Defines support groups (e.g., Billing, Technical, Customer Care).  
+- **tables.xml** → Maps ticket-related data structures for routing and assignment.  
+- **acls.xml** → Access Control Lists ensuring secure role- and group-based access.
+
+---
+
+## 🖼️ Screenshots
+The `screenshots/` folder contains visual references, such as:
+- Ticket flow diagrams  
+- Role and group assignments  
+- Sample ticket assignment dashboard  
+
+---
+
+## ⚙️ How It Works
+1. **Users** are defined and assigned **roles**.  
+2. **Roles** are linked to **groups**.  
+3. **Tables** store ticketing data (e.g., incidents, requests).  
+4. **ACLs** control access, ensuring only authorized roles interact with specific tables.  
+5. **Flows** (represented in screenshots) automate ticket routing to the right support group.  
+
+---
+
+## 🛠️ Usage
+- Import the provided XML files into your ServiceNow (or similar ITSM platform).  
+- Validate that **users, roles, groups, tables, and ACLs** are set up correctly.  
+- Use the screenshots as a reference to configure flows for automated routing.  
+
+---
+
+## 📈 Benefits
+- Faster ticket resolution  
+- Reduced manual effort and routing errors  
+- Improved SLA compliance  
+- Balanced workload across support teams  
+- Better customer experience  
+
+---
+
+## ✅ Conclusion
+This XML-driven configuration approach provides a **scalable foundation** for efficient support ticket assignment, ensuring that ABC Corporation’s support operations remain both effective and adaptable.
+
+---
